@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoekAR
 - 👀 I’m interested in apps that make working easier
-- 🌱 I’m currently learning visual studio and SQL
-- 💞️ I’m looking to collaborate on visual studio
+- 🌱 I’m currently learning python and SQL
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me: LoekRietbergen@planet.nl
 
 <!---
